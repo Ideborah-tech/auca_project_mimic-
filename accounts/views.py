@@ -2,6 +2,12 @@ from django.shortcuts import render, redirect
 from django.contrib import messages
 
 
+# Shared demo credentials
+DEMO_USERS = {
+    'student@auca.ac.rw': {'password': 'student123', 'role': 'Student'},
+    'staff@auca.ac.rw':   {'password': 'staff123',   'role': 'Staff'},
+}
+
 def login_view(request):
     if request.method == "POST":
         student_id = request.POST.get("student_id", "").strip()
