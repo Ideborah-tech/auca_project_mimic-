@@ -317,14 +317,10 @@ auca_project_mimic/
 
 ---
 
-## Planned Next Steps
-
-- [ ] Debora — Registration form implementation
-- [ ] Valentin — Sign up functionality
-- [ ] Connect dashboard data to a real database model
-- [ ] Implement Django `User` model authentication
-- [ ] Build out Profile, Transcript download, and Payment pages
-
----
+## Planned 
+- Backend
+- Autentication / Authorization
+- AI/ML solution
+- Advanced Dashbord
 
 *Last updated: April 11, 2026*
