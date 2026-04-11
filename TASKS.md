@@ -48,9 +48,9 @@ Team lead(i) reviews and merges PRs(some time someone else can do it, we're lead
 # Team Members & Roles
 
   -----------------------------------------------------------------------
-  Member         GitHub Username/team               Primary Focus
+  Member         Team               Primary Focus
   -------------- ----------------------------- --------------------------
-  Victoire       @ub-victor                     Architecture, code
+  Victoire       Team0                     Architecture, code
   (Lead)                                       reviews, deployment,
                                                integration
 
