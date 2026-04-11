@@ -120,7 +120,7 @@ model migrated.
 
 ## 🔹 Team 1: (+250 780 919 720 ~26949 Umutoni Gisele/ +250 791 906 031 Bosco ) -- Authentication & User Profiles
 
-**Branch:** `feature/auth-debora`
+**Branch:** `feature/auth-<name>`
 
 ### Tasks:
 
