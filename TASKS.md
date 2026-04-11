@@ -138,7 +138,7 @@ model migrated.
 -   Configure password reset using Django built-in views.
 -   Create profile.html extending base.html.
 -   Allow editing of user fields and profile picture.
--   Create decorators: `@student_required`, `@lecturer_required`.
+-   Create decorators: `@student_required`, `@lecturer_required` and a `@lecturer_required` who will manage both Student/ lectures .
 
 ### Deliverable PR:
 
@@ -172,7 +172,7 @@ All models, migrations, admin working with sample data.
 
 ------------------------------------------------------------------------
 
-## 🔹 Member 4: Student A -- Frontend & Dashboard
+## 🔹 Team 3: (+254 790 877089~Anduru/+250 782 802 631~Praise Mutijima) -- Frontend & Dashboard
 
 **Branch:** `feature/frontend-studenta`
 
