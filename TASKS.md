@@ -217,7 +217,7 @@ Clean responsive UI with dynamic dashboard.
 -   Create views and templates
 -   Prevent duplicate enrollment
 -   Display timetable grouped by day
--   Add lecturer permissions
+-   Add all Users permissions (Students/Admins/Lectures)
 
 ### Deliverable PR:
 
