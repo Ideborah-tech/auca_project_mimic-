@@ -64,8 +64,10 @@ Team lead(i) reviews and merges PRs(some time someone else can do it, we're lead
     )                                   
 
   Team3       Team3                     Frontend (dashboard,
-  ()                                  responsive UI, base
-                                               templates)
+  (+254 790 877089~Anduru/               responsive UI, base templates)     
+  +250 782 802 631~Praise Mutijima
+  )                                  
+                                               
 
   Team 4       @studentB                     Courses, enrollments,
   (Student B)                                  timetable
