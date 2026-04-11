@@ -225,7 +225,8 @@ Working course system with enrollment and timetable.
 
 ------------------------------------------------------------------------
 
-## 🔹 Member 6: Student C -- Assessments & ML
+## 🔹 Team 5: (Deborah +250 791 319 715 / Valentin +250 793 037 644
+  ) -- Assessments & ML
 
 **Branch:** `feature/ml-studentc`
 
