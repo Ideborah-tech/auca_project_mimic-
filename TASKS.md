@@ -210,6 +210,7 @@ Clean responsive UI with dynamic dashboard.
 -   Enrollment functionality
 -   Timetable generation
 -   Lecturer course management
+-   Upper User Full Management
 
 ### Methodology:
 
