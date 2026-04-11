@@ -55,15 +55,15 @@ Team lead(i) reviews and merges PRs(some time someone else can do it, we're lead
                                                integration
 
   Team1                              Authentication, user
-  (+250 780 919 720                    profiles, password reset
-   ~26949 Umutoni Gisele/
+  (+250 780 919 720 ~26949 Umutoni Gisele/     profiles, password reset
    +250 791 906 031 Bosco )             
 
   Team2       Team 2                     Database models,
-  (+250 788 426 996 ~Hirwa Roy 24174     migrations, API structure
+  (+250 788 426 996 ~Hirwa Roy 24174/     migrations, API structure
+   +250 791 761 076 ~26454_clement 
     )                                   
 
-  Team3       @studentA                     Frontend (dashboard,
+  Team3       Team3                     Frontend (dashboard,
   (Student A)                                  responsive UI, base
                                                templates)
 
