@@ -54,8 +54,10 @@ Team lead(i) reviews and merges PRs(some time someone else can do it, we're lead
   (Lead)                                       reviews, deployment,
                                                integration
 
-  Member 2       @debora                       Authentication, user
-  (Debora)                                     profiles, password reset
+  Members                              Authentication, user
+  (+250 780 919 720
+   ~26949 Umutoni Gisele/
+   +250 791 906 031 Bosco )             profiles, password reset
 
   Member 3       @valentin                     Database models,
   (Valentin)                                   migrations, API structure
@@ -71,7 +73,7 @@ Team lead(i) reviews and merges PRs(some time someone else can do it, we're lead
   (Student C)                                  assessments
   -----------------------------------------------------------------------
 
-*(Replace with actual names/GitHub handles)*
+
 
 ------------------------------------------------------------------------
 
