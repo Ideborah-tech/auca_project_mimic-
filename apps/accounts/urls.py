@@ -22,7 +22,7 @@ urlpatterns = [
     path('password-reset/complete/', auth_views.PasswordResetCompleteView.as_view(
         template_name='accounts/password_reset_complete.html'),
         name='password_reset_complete'),
-path('student-area/',  views.student_area,  name='student_area'),
+    path('student-area/',  views.student_area,  name='student_area'),
     path('lecturer-area/', views.lecturer_area, name='lecturer_area'),
     path('staff-area/',    views.staff_area,    name='staff_area'),
 ]
