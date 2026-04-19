@@ -3,7 +3,7 @@ from django.contrib import messages
 from django.contrib.auth import authenticate, login, logout
 from .models import CustomUser as User
 from .decorators import student_required, lecturer_required, staff_required
-
+from django.contrib.auth.decorators import login_required
 
 # ================= LOGIN =================
 def login_view(request):
@@ -86,6 +86,20 @@ def logout_view(request):
     messages.success(request, "Logged out successfully.")
     return redirect("login")
 
+# ================= PROFILE =================
+@login_required(login_url='login')
+def profile_view(request):
+    if request.method == 'POST':
+        user = request.user
+        user.first_name = request.POST.get('first_name', user.first_name)
+        user.last_name = request.POST.get('last_name', user.last_name)
+        user.email = request.POST.get('email', user.email)
+        if request.FILES.get('profile_picture'):
+            user.profile_picture = request.FILES['profile_picture']
+        user.save()
+        messages.success(request, 'Profile updated successfully!')
+        return redirect('profile')
+    return render(request, 'accounts/profile.html', {'user': request.user})
 
 # ================= STAFF ONLY =================
 @student_required
